@@ -1,41 +1,41 @@
 {
-  "1 aandragen": {
+  "Suggestie in vooronderzoek - technisch": {
     "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cmawsm1tf02d1uoeep9mhptcp-beoordelingsproces1.full.jpg",
     "text": "In deze fase kunnen bewoners een plek aandragen voor een nieuwe boom."
   },
-  "2 obstakels": {
+  "Suggestie in vooronderzoek - in ontwerp": {
     "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9ygsl1t0l1z4reeswagrfkt-beoordelingsproces2.full.jpg",
     "text": "We onderzoeken of er obstakels zijn, zoals kabels of leidingen, die beplanting moeilijk maken."
   },
-  "3 ontwerp": {
+  "Suggestie in afwachting akkoord beheer toetsing": {
     "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9ygsvlz0l2q4reenxus795d-beoordelingsproces3.full.jpg",
     "text": "In de ontwerpfase wordt gekeken naar het type boom en de precieze locatie."
   },
-  "4 beheer": {
+  "Suggestie in afwachting eindbeoordeling stadsdeel": {
     "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9yh2leu0mcv4reef3i6u5y0-beoordelingsproces4.full.jpg",
     "text": "Beheer en onderhoud van de boomplek worden afgestemd met de stadsdelen."
   },
-  "5 suggestie afgewezen": {
+  "Suggestie afgewezen": {
     "image": null,
     "text": "De boom is afgekeurd"
   },
-  "6 kwaliteit": {
+  "Groeiplaats in behandeling op plantlijst": {
     "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9yh2zvr0meb4ree5ouzpvmo-beoordelingsproces5.full.jpg",
     "text": "De kwaliteit van de groeiplaats wordt gecontroleerd op bodem, licht en ruimte."
   },
-  "7 gereserveerd": {
+  "Groeiplaats gereserveerd voor project": {
     "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9yh2zvr0meb4ree5ouzpvmo-beoordelingsproces5.full.jpg",
     "text": "De kwaliteit van de groeiplaats wordt gecontroleerd op bodem, licht en ruimte."
   },
-  "8 groeiplaats afgewezen": {
+  "Groeiplaats afgewezen": {
     "image": null,
     "text": "De boom is afgekeurd"
   },
-  "9 boom geplant": {
+  "Groeiplaats beplant": {
     "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9yh3xyp0mnf4reeyb4qvc25-beoordelingsproces6.full.jpg",
     "text": "De boom is succesvol geplant en maakt nu deel uit van de openbare ruimte."
   },
-  "10 gekapt": {
+  "Groeiplaats gekapt": {
     "image": null,
     "text": "De boom is afgekeurd"
   }
