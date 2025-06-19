@@ -15,19 +15,27 @@
     "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9yh2leu0mcv4reef3i6u5y0-beoordelingsproces4.full.jpg",
     "text": "Beheer en onderhoud van de boomplek worden afgestemd met de stadsdelen."
   },
-  "5 kwaliteit": {
-    "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9yh2zvr0meb4ree5ouzpvmo-beoordelingsproces5.full.jpg",
-    "text": "De kwaliteit van de groeiplaats wordt gecontroleerd op bodem, licht en ruimte."
-  },
-  "6 boom geplant": {
-    "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9yh3xyp0mnf4reeyb4qvc25-beoordelingsproces6.full.jpg",
-    "text": "De boom is succesvol geplant en maakt nu deel uit van de openbare ruimte."
-  },
-  "7 suggestie afgewezen": {
+  "5 suggestie afgewezen": {
     "image": null,
     "text": "De boom is afgekeurd"
   },
+  "6 kwaliteit": {
+    "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9yh2zvr0meb4ree5ouzpvmo-beoordelingsproces5.full.jpg",
+    "text": "De kwaliteit van de groeiplaats wordt gecontroleerd op bodem, licht en ruimte."
+  },
+  "7 gereserveerd": {
+    "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9yh2zvr0meb4ree5ouzpvmo-beoordelingsproces5.full.jpg",
+    "text": "De kwaliteit van de groeiplaats wordt gecontroleerd op bodem, licht en ruimte."
+  },
   "8 groeiplaats afgewezen": {
+    "image": null,
+    "text": "De boom is afgekeurd"
+  },
+  "9 boom geplant": {
+    "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9yh3xyp0mnf4reeyb4qvc25-beoordelingsproces6.full.jpg",
+    "text": "De boom is succesvol geplant en maakt nu deel uit van de openbare ruimte."
+  },
+  "10 gekapt": {
     "image": null,
     "text": "De boom is afgekeurd"
   }
