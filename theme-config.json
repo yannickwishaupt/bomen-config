@@ -1,38 +1,38 @@
 {
   "Suggestie in vooronderzoek - technisch": {
-    "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cmawsm1tf02d1uoeep9mhptcp-beoordelingsproces1.full.jpg",
-    "text": "In deze fase kunnen bewoners een plek aandragen voor een nieuwe boom."
+    "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cme8z5q5l05alqhee9wv3o0lr-1-boom-aangevraagd.full.png",
+    "text": "Als u een plek voor een nieuwe boom heeft doorgegeven, beoordeelt een team experts of de plek goed genoeg is voor het planten van een boom. "
   },
   "Suggestie in vooronderzoek - in ontwerp": {
-    "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9ygsl1t0l1z4reeswagrfkt-beoordelingsproces2.full.jpg",
-    "text": "We onderzoeken of er obstakels zijn, zoals kabels of leidingen, die beplanting moeilijk maken."
+    "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cme8zayvy05biqheeodawnnw3-2-controle-ondergrondse-obstakels.full.png",
+    "text": "Een team van experts kijkt of er ondergronds niets in de weg zit. Als er bijvoorbeeld kabels of leidingen lopen, kijken ze of er op een plek in de buurt wel een boom kan worden geplant."
   },
   "Suggestie in afwachting akkoord beheer toetsing": {
-    "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9ygsvlz0l2q4reenxus795d-beoordelingsproces3.full.jpg",
-    "text": "In de ontwerpfase wordt gekeken naar het type boom en de precieze locatie."
+    "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cme8zg7o505cgqheeaks6oviu-3-controle-omgeving-en-regels.full.png",
+    "text": "Een expert kijkt naar de omgeving en de regels voor de openbare ruimte. Deze beslist of de boom op de aangevraagde plek kan en welke boomsoort dan het beste past. De wens van de aanvrager wordt daarin meegenomen."
   },
   "Suggestie in afwachting eindbeoordeling stadsdeel": {
-    "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9yh2leu0mcv4reef3i6u5y0-beoordelingsproces4.full.jpg",
-    "text": "Beheer en onderhoud van de boomplek worden afgestemd met de stadsdelen."
+    "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cme8zjdqx05ddqheenzzab2bu-4-controle-verzorging.full.png",
+    "text": "Een expert beoordeeld of de boom op die plek goed verzorgd kan worden."
   },
   "Suggestie afgewezen": {
     "image": null,
-    "text": "De boom is afgekeurd"
+    "text": "Deze plek is afgekeurd"
   },
   "Groeiplaats in behandeling op plantlijst": {
-    "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9yh2zvr0meb4ree5ouzpvmo-beoordelingsproces5.full.jpg",
-    "text": "De kwaliteit van de groeiplaats wordt gecontroleerd op bodem, licht en ruimte."
+    "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cme8zqnna05eaqheev15gybxu-5-laatste-controle.full.png",
+    "text": "Voor alle zekerheid wordt de plek nog een keer uitgebreid gecontroleerd op alle onderdelen. We kijken dan ook naar de kwaliteit van de bodem, de hoogte van het grondwater en onderzoeken opnieuw of er ondergronds niets in de weg zit."
   },
   "Groeiplaats gereserveerd voor project": {
-    "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9yh2zvr0meb4ree5ouzpvmo-beoordelingsproces5.full.jpg",
-    "text": "De kwaliteit van de groeiplaats wordt gecontroleerd op bodem, licht en ruimte."
+    "image": null,
+    "text": "Deze plek is gereserveerd voor een ander project"
   },
   "Groeiplaats afgewezen": {
     "image": null,
-    "text": "De boom is afgekeurd"
+    "text": "De plek is afgekeurd"
   },
   "Groeiplaats beplant": {
-    "image": "https://bomenamsterdam.participraat.nl/uploads/attachments/cm9yh3xyp0mnf4reeyb4qvc25-beoordelingsproces6.full.jpg",
+    "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cme8zqzey05f7qhee8i3d0ykg-6-boom-geplant.full.png",
     "text": "De boom is succesvol geplant en maakt nu deel uit van de openbare ruimte."
   },
   "Groeiplaats gekapt": {
