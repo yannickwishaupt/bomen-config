@@ -28,7 +28,7 @@
     "text": "Deze plek is gereserveerd voor een ander project"
   },
   "Groeiplaats afgewezen": {
-    "image": null,
+    "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cmea2ccgj00r0qleeqfxaprfw-7-afgekeurde-plek.png",
     "text": "De plek is afgekeurd"
   },
   "Groeiplaats beplant": {
