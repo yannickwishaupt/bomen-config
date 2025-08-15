@@ -16,7 +16,7 @@
     "text": "Een expert beoordeeld of de boom op die plek goed verzorgd kan worden."
   },
   "Suggestie afgewezen": {
-    "image": null,
+    "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cmea2ccgj00r0qleeqfxaprfw-7-afgekeurde-plek.png",
     "text": "Deze plek is afgekeurd"
   },
   "Groeiplaats in behandeling op plantlijst": {
@@ -24,7 +24,7 @@
     "text": "Voor alle zekerheid wordt de plek nog een keer uitgebreid gecontroleerd op alle onderdelen. We kijken dan ook naar de kwaliteit van de bodem, de hoogte van het grondwater en onderzoeken opnieuw of er ondergronds niets in de weg zit."
   },
   "Groeiplaats gereserveerd voor project": {
-    "image": null,
+    "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cmea2ccgj00r0qleeqfxaprfw-7-afgekeurde-plek.png",
     "text": "Deze plek is gereserveerd voor een ander project"
   },
   "Groeiplaats afgewezen": {
