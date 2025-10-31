@@ -1,35 +1,31 @@
 {
-  "Suggestie in vooronderzoek - technisch": {
+    "Suggestie in vooronderzoek - in ontwerp": {
     "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cme8z5q5l05alqhee9wv3o0lr-1-boom-aangevraagd.full.png",
     "text": "Een team van experts beoordeelt of de plek goed genoeg is voor het planten van een boom. "
   },
-  "Suggestie in vooronderzoek - in ontwerp": {
+    "Suggestie in afwachting akkoord beheer toetsing": {
     "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cme8zayvy05biqheeodawnnw3-2-controle-ondergrondse-obstakels.full.png",
     "text": "Een team van experts kijkt of er ondergronds niets in de weg zit. Als er bijvoorbeeld kabels of leidingen lopen, kijken ze of er op een plek in de buurt wel een boom kan worden geplant."
   },
-  "Suggestie in afwachting akkoord beheer toetsing": {
+"Suggestie in afwachting eindbeoordeling stadsdeel": {
     "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cme8zg7o505cgqheeaks6oviu-3-controle-omgeving-en-regels.full.png",
     "text": "Een expert kijkt naar de omgeving en de regels voor de openbare ruimte. Deze beslist of de boom op de aangevraagde plek kan en welke boomsoort dan het beste past. De wens van de aanvrager wordt daarin meegenomen."
   },
-  "Suggestie in afwachting eindbeoordeling stadsdeel": {
+    "Suggestie afgewezen": {
     "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cme8zjdqx05ddqheenzzab2bu-4-controle-verzorging.full.png",
     "text": "Een expert beoordeeld of de boom op die plek goed verzorgd kan worden."
   },
-  "Suggestie afgewezen": {
+ "Groeiplaats in behandeling op plantlijst": {
     "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cmea2ccgj00r0qleeqfxaprfw-7-afgekeurde-plek.png",
     "text": "Deze plek is afgekeurd"
   },
-  "Groeiplaats in behandeling op plantlijst": {
+  "Groeiplaats gereserveerd voor project": {
     "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cme8zqnna05eaqheev15gybxu-5-laatste-controle.full.png",
     "text": "Voor alle zekerheid wordt de plek nog een keer uitgebreid gecontroleerd op alle onderdelen. We kijken dan ook naar de kwaliteit van de bodem, de hoogte van het grondwater en onderzoeken opnieuw of er ondergronds niets in de weg zit."
   },
-  "Groeiplaats gereserveerd voor project": {
-    "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cmea2ccgj00r0qleeqfxaprfw-7-afgekeurde-plek.png",
-    "text": "Deze plek is gereserveerd voor een ander project"
-  },
   "Groeiplaats afgewezen": {
     "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cmea2ccgj00r0qleeqfxaprfw-7-afgekeurde-plek.png",
-    "text": "De plek is afgekeurd"
+    "text": "Deze plek is gereserveerd voor een ander project"
   },
   "Groeiplaats beplant": {
     "image": "https://production-participraat-bucket.ams3.digitaloceanspaces.com/attachments/cme8zqzey05f7qhee8i3d0ykg-6-boom-geplant.full.png",
